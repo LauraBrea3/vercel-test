@@ -72,3 +72,5 @@ class Person {
 
 const laura = new Person('laura', 32, 'new york')
 laura.greeting()
+
+
